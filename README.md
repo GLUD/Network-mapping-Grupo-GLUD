@@ -8,7 +8,7 @@ https://glud.org/2017/03/03/pentesting-red-grupo-glud/
 https://nmap.org/
 https://www.kali.org/penetration-testing/openvas-vulnerability-scanning/
 
-Hay que instalar OpenVas en la distro a utilizar ya que no se encuentra en las herramientas de Kali Linux.
+Hay que instalar OpenVAS en la distro a utilizar ya que no se encuentra en las herramientas de Kali Linux.
 
 #Descargar y descomprimir OpenVAS
 
