@@ -1,4 +1,4 @@
-# Pentesting-Red-Grupo-GLUD
+# Network-mapping-Grupo-GLUD
 
 ***ESTE TUTORIAL ESTA HECHO CON FINES EDUCATIVOS Y DE ENSEÑANZA. EL USO NO ADECUADO DEL MATERIAL ES BAJO SU RESPONSABILIDAD.***
 https://glud.org/2017/03/03/pentesting-red-grupo-glud/
